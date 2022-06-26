@@ -1,0 +1,8 @@
+@import url("./reset.css");
+@import url("./normalize.css");
+
+table {
+    width: 100%;
+    text-align: center;
+    border: 1px solid red;
+}
